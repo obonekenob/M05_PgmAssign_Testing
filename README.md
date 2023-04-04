@@ -5,7 +5,7 @@ _______________________________________________
   
 Below is the terminal output from VSCode for all unittest test*.py files  
 _______________________________________________  
-PS C:\Users\ray62\Documents\SDEV220\Module5\M05_PgmAssign_Testing\project> python -m unittest discover     
+PS C:\Users\ray62\Documents\SDEV220\Module5\M05_PgmAssign_Testing\project> python -m unittest discover      
 F..F  
 ======================================================================  
 FAIL: test_list_fraction (test.TestSum.test_list_fraction)  
